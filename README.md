@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Timothée Mounier, a french engineering student who is highly dedicated to quantum physics !
+
+
 <!--
 **TimotheeMounier/TimotheeMounier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+ 
