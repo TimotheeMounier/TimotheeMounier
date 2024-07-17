@@ -1,13 +1,18 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header"/>
-      Hello there :wave:, I'm Timothée MOUNIER
+  Hello there :wave:, I'm 
 </h1>
 
-###  **About me**
+### 🐙 **About me**
 
-I'm a 22 years old student from France, passionate about quantum technologies.
+
+
+Some certifications I've earned :
+
+
+
+#### ℹ️ GitHub Stats
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=footer"/>
-
 
  
